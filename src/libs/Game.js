@@ -206,7 +206,7 @@ class Game {
     createTestGrid(value) {
         this.createEmptyGrid()
 
-        const l = this.names.length;
+        const l = this.names.length
 
         for (let i = 0; i < value; i++) {
             let dx = Math.floor(Math.random() * this.width)

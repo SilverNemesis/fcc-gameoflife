@@ -13,14 +13,14 @@ class Board extends React.Component {
     }
 
     componentDidMount() {
-        var rect = this.canvas.getBoundingClientRect();
+        var rect = this.canvas.getBoundingClientRect()
         this.dx = rect.left + this.border
         this.dy = rect.top + this.border
         this.drawGrid()
     }
 
     componentDidUpdate() {
-        var rect = this.canvas.getBoundingClientRect();
+        var rect = this.canvas.getBoundingClientRect()
         this.dx = rect.left + this.border
         this.dy = rect.top + this.border
         this.drawGrid()
@@ -67,7 +67,7 @@ class Board extends React.Component {
 
     drawGrid() {
         if (this.props.grid === this.grid && this.props.width === this.width && this.props.height === this.height && this.props.steps === this.steps && this.props.showGrid === this.showGrid) {
-            return;
+            return
         }
 
         this.grid = this.props.grid
@@ -76,7 +76,7 @@ class Board extends React.Component {
         this.steps = this.props.steps
         this.showGrid = this.props.showGrid
 
-        const ctx = this.canvas.getContext('2d');
+        const ctx = this.canvas.getContext('2d')
 
         ctx.lineWidth = 1
 
@@ -106,7 +106,7 @@ class Board extends React.Component {
         }
 
         if (!this.grid) {
-            return;
+            return
         }
 
         const grid = this.props.grid

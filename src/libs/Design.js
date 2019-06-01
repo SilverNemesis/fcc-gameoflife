@@ -129,10 +129,10 @@ class Design {
     static draw(grid, width, height, x, y, name) {
         const design = designs.find((design) => {
             if (design.name === name) {
-                return true;
+                return true
             }
 
-            return false;
+            return false
         })
 
         const p = design.data
