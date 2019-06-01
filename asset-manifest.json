@@ -1,13 +1,15 @@
 {
-  "main.css": "/fcc-gameoflife/static/css/main.df14bf3d.chunk.css",
-  "main.js": "/fcc-gameoflife/static/js/main.cde35e8e.chunk.js",
-  "main.js.map": "/fcc-gameoflife/static/js/main.cde35e8e.chunk.js.map",
-  "runtime~main.js": "/fcc-gameoflife/static/js/runtime~main.88bb0b37.js",
-  "runtime~main.js.map": "/fcc-gameoflife/static/js/runtime~main.88bb0b37.js.map",
-  "static/js/2.fd5b5b55.chunk.js": "/fcc-gameoflife/static/js/2.fd5b5b55.chunk.js",
-  "static/js/2.fd5b5b55.chunk.js.map": "/fcc-gameoflife/static/js/2.fd5b5b55.chunk.js.map",
-  "index.html": "/fcc-gameoflife/index.html",
-  "precache-manifest.352750e352143aadec98da28ee84c1b6.js": "/fcc-gameoflife/precache-manifest.352750e352143aadec98da28ee84c1b6.js",
-  "service-worker.js": "/fcc-gameoflife/service-worker.js",
-  "static/css/main.df14bf3d.chunk.css.map": "/fcc-gameoflife/static/css/main.df14bf3d.chunk.css.map"
+  "files": {
+    "main.css": "/fcc-gameoflife/static/css/main.84dea10e.chunk.css",
+    "main.js": "/fcc-gameoflife/static/js/main.2000aca6.chunk.js",
+    "main.js.map": "/fcc-gameoflife/static/js/main.2000aca6.chunk.js.map",
+    "runtime~main.js": "/fcc-gameoflife/static/js/runtime~main.179676a4.js",
+    "runtime~main.js.map": "/fcc-gameoflife/static/js/runtime~main.179676a4.js.map",
+    "static/js/2.0f58faaa.chunk.js": "/fcc-gameoflife/static/js/2.0f58faaa.chunk.js",
+    "static/js/2.0f58faaa.chunk.js.map": "/fcc-gameoflife/static/js/2.0f58faaa.chunk.js.map",
+    "index.html": "/fcc-gameoflife/index.html",
+    "precache-manifest.25d042d33ac0361c67699519fb5bc58b.js": "/fcc-gameoflife/precache-manifest.25d042d33ac0361c67699519fb5bc58b.js",
+    "service-worker.js": "/fcc-gameoflife/service-worker.js",
+    "static/css/main.84dea10e.chunk.css.map": "/fcc-gameoflife/static/css/main.84dea10e.chunk.css.map"
+  }
 }
